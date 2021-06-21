@@ -29,7 +29,7 @@ Python program that reads the DS18B20 Temperature Sensor, together with the temp
 
 # Monitoring on Zabbix
 
-![Last-3-months timeline]figures/last-3-months.png
+![Last-3-months timeline](figures/last-3-months.png)
 
 
 # Log
