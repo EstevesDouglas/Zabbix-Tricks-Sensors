@@ -30,9 +30,10 @@ Use case
 
 
 # Log
-
+Raspberry Pi Zero - WiFi Version
 ![Raspberry PI zero](figures/raspberrypizero.jpg)
 
+Raspberry Pi 2 - Ethernet cable version
 ![Raspberry PI 2](figures/raspberrypi2.jpg)
 
 
