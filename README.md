@@ -28,7 +28,7 @@ Python program that reads the DS18B20 Temperature Sensor, together with the temp
 -[ ds18b20.py](https://raw.githubusercontent.com/EstevesDouglas/Open-EMS-PI-ZBX/main/scripts/ds18b20.py)
 
 # Monitoring on Zabbix
-
+Use case
 ![Last-3-months timeline](figures/last-3-months.png)
 
 
