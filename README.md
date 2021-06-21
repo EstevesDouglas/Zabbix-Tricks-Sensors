@@ -15,9 +15,6 @@ Version Zabbix 4.4.9
 
 -[Template OS Linux Zabbix agent Raspberry PI](https://raw.githubusercontent.com/EstevesDouglas/Open-EMS-PI-ZBX/main/templates/Template_OS_Linux_Zabbix_agent_Raspberry_PI.xml)
 
-    *Network Interfaces
-    *NTP
-    *Sistema de Arquivos
     *Status
     *Temperatura (DS18B20)
     
