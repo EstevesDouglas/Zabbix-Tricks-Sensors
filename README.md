@@ -44,6 +44,5 @@ Use case
 - [Data-center-temperature-monitor](https://github.com/hixair/Data-center-temperature-monitor)
 - [Do It Yourself: SNMP Temperature Monitoring System](https://www.norwegiancreations.com/2017/06/do-it-yourself-snmp-temperature-monitoring-system/)
 - [RASPBERRY PI DS18B20 TEMPERATURE SENSOR TUTORIAL](https://www.circuitbasics.com/raspberry-pi-ds18b20-temperature-sensor-tutorial/)
-- [Zabbix Proxy 4.4 com Raspberry PI 3 - 28/07](http://www.unicast.com.br/configurando-zabbix-proxy-4-4-com-raspberry-pi-3/)
 - [Zabbix Página oficial](https://www.zabbix.com/download?zabbix=5.0&os_distribution=raspbian&os_version=10_buster&db=mysql&ws=apache)
 - [Wide range of Hygrometers:DHT22, AM2302, AM2320, AM2321, SHT71, HTU21D, Si7021, BME280](http://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_many.html)
