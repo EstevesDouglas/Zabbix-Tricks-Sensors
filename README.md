@@ -31,9 +31,9 @@ Python program that reads the DS18B20 Temperature Sensor, together with the temp
 # Log
 
 
-![Raspberry PI 2](figures/raspberrypizero.jpg)
+![Raspberry PI zero](figures/raspberrypizero.jpg)
 
-![Raspberry PI 2](figures/raspberrypizero.jpg)
+![Raspberry PI 2](figures/raspberrypi2.jpg)
 
 
 
