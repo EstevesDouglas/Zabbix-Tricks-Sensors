@@ -37,6 +37,10 @@ Raspberry Pi 2 - Ethernet cable version
 ![Raspberry PI 2](figures/raspberrypi2.jpg)
 
 
+# next stesps
+- [ ] post blog install
+- [ ] PinOut documentation sensor
+- [ ] video test
 
 # References
 - [Data-center-temperature-monitor](https://github.com/hixair/Data-center-temperature-monitor)
