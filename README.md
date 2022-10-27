@@ -1,6 +1,6 @@
 # Zabbix-trics-Sensors
 Environmental Monitoring System on Raspberry PI for Zabbix
--[x] 2022 - relase first version.  Temperature monitoring.
+- [x] 2022 - relase first version.  Temperature monitoring.
 
 
 # Overview
