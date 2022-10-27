@@ -1,5 +1,6 @@
-# Open-EMS-PI-ZBX
+# Zabbix-trics-Sensors
 Environmental Monitoring System on Raspberry PI for Zabbix
+[x] 2022 - relase first version.  Temperature monitoring.
 
 
 # Overview
@@ -37,7 +38,7 @@ Raspberry Pi 2 - Ethernet cable version
 ![Raspberry PI 2](figures/raspberrypi2.jpg)
 
 
-# next stesps
+# Next step
 - [ ] post blog install
 - [ ] PinOut documentation sensor
 - [ ] video test
